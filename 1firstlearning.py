@@ -1,10 +1,10 @@
 # this is about femboys and tomboys strings
 
-print("i like femboys")
-print("i like tomboys too!")
-first_name = "Astolfo"
-email = "astolfo@femboy.com"
-print (f"my favorite femboy is {first_name}")
+print("i like chicken")
+print("i like chicken too!")
+first_name = "cam"
+email = "cam@boy.com"
+print (f"my favorite person is {first_name}")
 print (f"his email is {email}")
 
 # this is about intergers
@@ -17,20 +17,20 @@ print (f"you have wasted {quantity} years of your life")
 # this is about floats
 
 price = 10.99
-print (f"the price of your monthly crunchyroll is ${price}")
+print (f"the price of your monthly subscription is ${price}")
 
 # this is about booleans
 
-is_femboy = True
+is_true = True
 
-if is_femboy: 
-    print("you are a femboy")
+if is_true: 
+    print("you are true")
 else:
-    print("you are not a femboy")
+    print("you are not true")
 
-is_gay = False
+is_false = False
 
-if is_gay:
-    print("you are gay")
+if is_false:
+    print("you are 1")
 else:
-    print("you are not gay")
+    print("you are 2")

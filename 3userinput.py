@@ -6,6 +6,6 @@ print (f"Hello, {name}! Your quest is {quest} and your favorite color is {color}
 age = int(input("What was your age again? "))
 
 if age < 18:
-    print("yo waddup 67")
+    print("yo waddup kid")
 else:
-    print("bro you are old af")
+    print("bro you are oldf")
