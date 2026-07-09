@@ -11,4 +11,4 @@ elif operator == "*":
 elif operator == "/":
     print(f"The answer is {numb1 / numb2}")
 else:
-    print("Please enter a suitable number")
+    print("Please enter a suitable operator")
